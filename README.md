@@ -1,0 +1,2 @@
+# child
+git submodule test
