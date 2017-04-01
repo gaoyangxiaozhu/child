@@ -1,2 +1,0 @@
-# child
-git submodule test
